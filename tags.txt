@@ -1,0 +1,37 @@
+
+
+<html>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Blockquote Example</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 40px;
+        }
+        blockquote {
+            margin: 20px 40px;
+            padding: 20px;
+            background-color: #f9f9f9;
+            border-left: 10px solid #ccc;
+        }
+    </style>
+</head>
+<body>
+
+    <h1>Using the Blockquote Tag</h1>
+
+    <p>Below is an example of a blockquote:</p>
+
+    <blockquote>
+        "The only limit to our realization of tomorrow is our doubts of today."
+        <footer>— Franklin D. Roosevelt</footer>
+    </blockquote>
+
+    <p>Blockquotes are commonly used to indicate the quotation of a large section of text from another source.</p>
+
+</body>
+</html>
